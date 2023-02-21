@@ -5,4 +5,5 @@ Air pollution is all around us. The rise in permissible concentrations of variou
 **Objective :** 
 
 **- Explore and visualize the Air Pollution dataset, which contains information about air molecules and pollutants found in the air**
+
 **- Reduce the number of features by using dimensionality reduction techniques such as PCA and t-SNE, and extract insights about the data.**
